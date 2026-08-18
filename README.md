@@ -34,9 +34,6 @@ The complete source code is available at the link given below:
 `https://github.com/MG-kildon/ML-Assignment2`
 
 
-The first three commands create a separate environment and install the required libraries. The fourth command trains the five models and creates the test file. The last command starts the web application.
-
-The application opens at `http://localhost:8501`.
 
 ## 4. Models used
 
